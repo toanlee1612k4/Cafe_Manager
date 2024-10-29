@@ -1,0 +1,15 @@
+C:\Users\toan2\source\repos\DangKyMonHoc\bin\Debug\CafeManager.exe.config
+C:\Users\toan2\source\repos\DangKyMonHoc\bin\Debug\CafeManager.exe
+C:\Users\toan2\source\repos\DangKyMonHoc\bin\Debug\CafeManager.pdb
+C:\Users\toan2\source\repos\DangKyMonHoc\bin\Debug\EntityFramework.dll
+C:\Users\toan2\source\repos\DangKyMonHoc\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toan2\source\repos\DangKyMonHoc\bin\Debug\EntityFramework.xml
+C:\Users\toan2\source\repos\DangKyMonHoc\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toan2\source\repos\DangKyMonHoc\obj\Debug\DangKyMonHoc.csproj.AssemblyReference.cache
+C:\Users\toan2\source\repos\DangKyMonHoc\obj\Debug\CafeManager.Form1.resources
+C:\Users\toan2\source\repos\DangKyMonHoc\obj\Debug\CafeManager.Properties.Resources.resources
+C:\Users\toan2\source\repos\DangKyMonHoc\obj\Debug\DangKyMonHoc.csproj.GenerateResource.cache
+C:\Users\toan2\source\repos\DangKyMonHoc\obj\Debug\DangKyMonHoc.csproj.CoreCompileInputs.cache
+C:\Users\toan2\source\repos\DangKyMonHoc\obj\Debug\DangKyMo.FEC69C7C.Up2Date
+C:\Users\toan2\source\repos\DangKyMonHoc\obj\Debug\CafeManager.exe
+C:\Users\toan2\source\repos\DangKyMonHoc\obj\Debug\CafeManager.pdb
