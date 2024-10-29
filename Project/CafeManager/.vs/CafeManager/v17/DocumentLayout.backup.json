@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toan2\\source\\repos\\CafeManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|c:\\users\\toan2\\source\\repos\\cafemanager\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|c:\\users\\toan2\\source\\repos\\cafemanager\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|c:\\users\\toan2\\source\\repos\\cafemanager\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|C:\\Users\\toan2\\source\\repos\\CafeManager\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|C:\\Users\\toan2\\source\\repos\\CafeManager\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|C:\\Users\\toan2\\source\\repos\\CafeManager\\frmtablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmtablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "frmAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmAdmin.Designer.cs*",
+              "RelativeToolTip": "frmAdmin.Designer.cs*",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAqwLoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:25:37.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "frmAdmin.cs",
+              "ToolTip": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmAdmin.cs*",
+              "RelativeToolTip": "frmAdmin.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:25:30.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "frmAdmin.cs",
+              "ToolTip": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmAdmin.cs [Design]*",
+              "RelativeToolTip": "frmAdmin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:04:33.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTableManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmTableManager.cs",
+              "RelativeDocumentMoniker": "frmTableManager.cs",
+              "ToolTip": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmTableManager.cs [Design]",
+              "RelativeToolTip": "frmTableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:39:54.976Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmLogin.cs*",
+              "RelativeToolTip": "frmLogin.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvyYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:30:46.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\toan2\\source\\repos\\CafeManager\\frmLogin.cs [Design]*",
+              "RelativeToolTip": "frmLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:25:41.295Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

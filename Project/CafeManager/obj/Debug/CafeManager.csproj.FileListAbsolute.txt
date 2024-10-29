@@ -1,0 +1,13 @@
+C:\Users\toan2\source\repos\CafeManager\bin\Debug\CafeManager.exe.config
+C:\Users\toan2\source\repos\CafeManager\bin\Debug\CafeManager.exe
+C:\Users\toan2\source\repos\CafeManager\bin\Debug\CafeManager.pdb
+C:\Users\toan2\source\repos\CafeManager\obj\Debug\CafeManager.csproj.AssemblyReference.cache
+C:\Users\toan2\source\repos\CafeManager\obj\Debug\CafeManager.frmLogin.resources
+C:\Users\toan2\source\repos\CafeManager\obj\Debug\CafeManager.Properties.Resources.resources
+C:\Users\toan2\source\repos\CafeManager\obj\Debug\CafeManager.csproj.GenerateResource.cache
+C:\Users\toan2\source\repos\CafeManager\obj\Debug\CafeManager.csproj.CoreCompileInputs.cache
+C:\Users\toan2\source\repos\CafeManager\obj\Debug\CafeManager.exe
+C:\Users\toan2\source\repos\CafeManager\obj\Debug\CafeManager.pdb
+C:\Users\toan2\source\repos\CafeManager\obj\Debug\CafeManager.frmTableManager.resources
+C:\Users\toan2\source\repos\CafeManager\obj\Debug\CafeManager.frmProfile.resources
+C:\Users\toan2\source\repos\CafeManager\obj\Debug\CafeManager.frmAdmin.resources
