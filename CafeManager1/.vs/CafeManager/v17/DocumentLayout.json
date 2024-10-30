@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CafeManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|d:\\cafemanager\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|D:\\CafeManager\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|D:\\CafeManager\\frmtablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmtablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|D:\\CafeManager\\frmdetaibill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmdetaibill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|D:\\CafeManager\\frmbill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmbill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|D:\\CafeManager\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|D:\\CafeManager\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|D:\\CafeManager\\frmtablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmtablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|D:\\CafeManager\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|D:\\CafeManager\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|D:\\CafeManager\\frmtablemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmtablemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|D:\\CafeManager\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{864BBB95-53AE-4B34-9FFD-B836BE5FACF8}|CafeManager.csproj|solutionrelative:frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmBill.Designer.cs",
+              "DocumentMoniker": "D:\\CafeManager\\frmBill.Designer.cs",
+              "RelativeDocumentMoniker": "frmBill.Designer.cs",
+              "ToolTip": "D:\\CafeManager\\frmBill.Designer.cs",
+              "RelativeToolTip": "frmBill.Designer.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAswKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:03:06.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBill.cs",
+              "DocumentMoniker": "D:\\CafeManager\\frmBill.cs",
+              "RelativeDocumentMoniker": "frmBill.cs",
+              "ToolTip": "D:\\CafeManager\\frmBill.cs",
+              "RelativeToolTip": "frmBill.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:03:00.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBill.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManager\\frmBill.cs",
+              "RelativeDocumentMoniker": "frmBill.cs",
+              "ToolTip": "D:\\CafeManager\\frmBill.cs [Design]",
+              "RelativeToolTip": "frmBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:52:37.58Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDetaiBill.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManager\\frmDetaiBill.cs",
+              "RelativeDocumentMoniker": "frmDetaiBill.cs",
+              "ToolTip": "D:\\CafeManager\\frmDetaiBill.cs [Design]",
+              "RelativeToolTip": "frmDetaiBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:37:02.62Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTableManager.cs",
+              "DocumentMoniker": "D:\\CafeManager\\frmTableManager.cs",
+              "RelativeDocumentMoniker": "frmTableManager.cs",
+              "ToolTip": "D:\\CafeManager\\frmTableManager.cs",
+              "RelativeToolTip": "frmTableManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:54:24.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManager\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "frmAdmin.cs",
+              "ToolTip": "D:\\CafeManager\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:04:33.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManager\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "D:\\CafeManager\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:25:41.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmTableManager.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManager\\frmTableManager.cs",
+              "RelativeDocumentMoniker": "frmTableManager.cs",
+              "ToolTip": "D:\\CafeManager\\frmTableManager.cs [Design]",
+              "RelativeToolTip": "frmTableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:39:54.976Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\CafeManager\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "D:\\CafeManager\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:30:46.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "D:\\CafeManager\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "frmAdmin.cs",
+              "ToolTip": "D:\\CafeManager\\frmAdmin.cs",
+              "RelativeToolTip": "frmAdmin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:25:30.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmTableManager.Designer.cs",
+              "DocumentMoniker": "D:\\CafeManager\\frmTableManager.Designer.cs",
+              "RelativeDocumentMoniker": "frmTableManager.Designer.cs",
+              "ToolTip": "D:\\CafeManager\\frmTableManager.Designer.cs",
+              "RelativeToolTip": "frmTableManager.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAtwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:54:47.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmProfile.cs [Design]",
+              "DocumentMoniker": "D:\\CafeManager\\frmProfile.cs",
+              "RelativeDocumentMoniker": "frmProfile.cs",
+              "ToolTip": "D:\\CafeManager\\frmProfile.cs [Design]",
+              "RelativeToolTip": "frmProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:19:10.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
